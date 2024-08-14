@@ -1,0 +1,44 @@
+.container{
+    width: 1330px;
+    height: 780px;
+  display: block;
+  padding-left: 120px;
+  
+}
+.place{
+    width: 400;
+    height: 300;
+    display: inline-block;
+    margin: 10px;
+
+}
+
+section{
+    width: 400px;
+    height:355px;
+    display: inline-block;
+    padding: 0px;
+    box-shadow: 3px 3px 2px lightslategray;
+
+
+}
+.place1{
+    width: 400;
+    height: 300;
+    display: inline-block;
+    margin: 10px;
+    
+}
+img{
+    width: 400px;
+    height: 300px;
+    
+}
+center{
+    background-color: forestgreen;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    
+}
